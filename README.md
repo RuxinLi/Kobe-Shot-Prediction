@@ -1,9 +1,11 @@
 <br/>
 # Kobe Brian Shot Selection
-## - [Walkthrough](https://ruxinli.github.io/ML2-TP2-Team8/labwalkthrough)
-## - [Exercise Walkthrough](https://ruxinli.github.io/ML2-TP1-Team8/exercisewalkthrough)
-## - [Code for Lab](https://ruxinli.github.io/ML2-TP1-Team8/labcode)
-## - [Code for Exercise](https://ruxinli.github.io/ML2-TP1-Team8/exercisecode)
+## - [Presentation Powerpoint](https://ruxinli.github.io/ML2-TP2-Team8/Kobe)
+## - [Best Model - XGBoost](https://ruxinli.github.io/ML2-TP2-Team8/)
+## - [Candidate Model - Random Forest](https://ruxinli.github.io/ML2-TP2-Team8/labcode)
+## - [Candidate Model - Stacked Ensemble](https://ruxinli.github.io/ML2-TP2-Team8/exercisecode)
+## - [Video](https://www.youtube.com/watch?v=ai53RbVQIAA&feature=youtu.be)
+## - [Download the All Code and Dataset](https://ruxinli.github.io/ML2-TP2-Team8/)
 <br/>
 <br/>
 <br/>
