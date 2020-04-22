@@ -1,5 +1,5 @@
 <br/>
-# Kobe Brian Shot Selection 
+# Kobe Bryant Shot Selection 
 ## - [Presentation Powerpoint](https://ruxinli.github.io/ML2-TP2-Team8/KBShotSelection/KobeBryantShotSelection.pdf)
 ## - [Best Model - XGBoost](https://ruxinli.github.io/ML2-TP2-Team8/KBShotSelection/Kobe_XGBoostTeam8.R)
 ## - [Candidate Model - Random Forest](https://ruxinli.github.io/ML2-TP2-Team8/KBShotSelection/Kobe_RF.R)
