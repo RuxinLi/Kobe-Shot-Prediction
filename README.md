@@ -1,6 +1,6 @@
 <br/>
 # Kobe Brian Shot Selection
-## - [Lab Walkthrough](https://ruxinli.github.io/ML2-TP2-Team8/labwalkthrough)
+## - [Walkthrough](https://ruxinli.github.io/ML2-TP2-Team8/labwalkthrough)
 ## - [Exercise Walkthrough](https://ruxinli.github.io/ML2-TP1-Team8/exercisewalkthrough)
 ## - [Code for Lab](https://ruxinli.github.io/ML2-TP1-Team8/labcode)
 ## - [Code for Exercise](https://ruxinli.github.io/ML2-TP1-Team8/exercisecode)
